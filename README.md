@@ -4,7 +4,7 @@
 
 **Compile the server:** ```gcc -o myserver myserver.c```<br>
 **Run the server:**  ```./myserver```<br>
-go to http://localhost:8080 to see the result<br>
+Open browser go to http://localhost:8080 to see the result<br>
 
 *Note:* If you want to check all warnings<br>
 ```gcc -Wall myserver.c -o myserver```
