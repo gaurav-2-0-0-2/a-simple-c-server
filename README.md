@@ -1,4 +1,4 @@
-# This is a simple C web server
+# This is a simple http web server in C
 [Tutorial](https://bruinsslot.jp/post/simple-http-webserver-in-c/)<br>
 [http made easy](https://www.jmarshall.com/easy/http/)<br>
 
